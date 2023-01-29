@@ -3,7 +3,10 @@ This code generates ramdom images.
 
 ## Prerequisite modules:
  PIL:It is the Python Imaging Library
-`` pip install Pillow ``
+
+  Example:
+
+` pip install Pillow `
 
 ## Steps:
 1.The code starts by importing the Image and random modules.
