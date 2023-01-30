@@ -2,7 +2,7 @@
 This code generates ramdom images.
 
 ## Prerequisite modules:
- PIL:It is the Python Imaging Library
+**PIL:** It is the Python Imaging Library
 
   Example:
 
