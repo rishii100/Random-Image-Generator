@@ -1,7 +1,7 @@
 # Random-Image-Generator:
 This code generates ramdom images.
 
-## Prerequisite modules:
+## Pre-requisite modules:
 **PIL :** It is the Python Imaging Library
 
   Example:
