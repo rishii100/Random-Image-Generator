@@ -1,5 +1,5 @@
 # Random-Image-Generator:
-This code generates ramdom images.
+This Python code uses the PIL (Python Imaging Library) module to create a new image with random RGB pixel values. The image dimensions are set to 640 x 480. The code generates random pixel values and assigns them to each pixel location. Finally, the image is saved as a PNG file named "random_image.png".
 
 ## Pre-requisite modules:
 **PIL :** It is the Python Imaging Library
