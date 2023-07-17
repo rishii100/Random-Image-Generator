@@ -28,7 +28,7 @@ Clone the repository:
 
 ## License:
 
-This code is released under the MIT License.
+This code is released under the <a href="LICENSE"> MIT LICENSE </a>.
 
 ## Contributing:
 
