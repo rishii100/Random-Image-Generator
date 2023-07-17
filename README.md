@@ -5,10 +5,9 @@ This repository contains a simple Python script that generates a random image wi
 ## Usage
 
 1. Clone the repository:
-
-   ```
+ ```
    git clone https://github.com/rishii100/Random-Image-Generator.git
-   ```
+ ```
 1.Install the required dependencies:
    ```
    pip install Pillow
